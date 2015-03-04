@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC432: Civil Liberties and Civil Rights"
+course_description: "An exploration of the evolving opinions and doctrines of the U.S. Supreme Court, with particular emphasis on the civil liberties and rights of individuals and groups. Examines specific case law, including post-September 11th detainees, the use of secret courts, same-sex marriage, immigration, and abortion."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Civil Liberties: Freedom of Religion** <span id="5"></span> 
 *Much of the population of what would become the United States were
 people fleeing religious persecution. As a result, explicit measures
