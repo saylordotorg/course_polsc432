@@ -67,7 +67,7 @@ computer.
  √    Be competent in the English language.  
     
  √    Have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 ### Course Information
 
@@ -81,7 +81,7 @@ following materials:
 -   FindLaw.com
 -   PBS, Landmark Court Cases by Alex McBride
 -   *[American Government and Politics in the Information
-    Age](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*
+    Age](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)*
 
 **Requirements for Completion**: In order to complete this course, you
 will need to work through each unit and all of its assigned materials. 
@@ -129,7 +129,7 @@ completing the final exam.
 -   ***American Government and Politics in the Information Age***
 
     Link: [*American Government and Politics in the Information
-    Age*](https://resources.saylor.org/archived/wp-content/uploads/2012/12/POLSC432American-Government-and-Politics-in-the-Information-Age-Attributed.pdf) (PDF)  
+    Age*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/POLSC432American-Government-and-Politics-in-the-Information-Age-Attributed.pdf) (PDF)  
       
      You will be prompted to read sections of this book throughout the
     course.  You may choose to download the text in full now and skip to

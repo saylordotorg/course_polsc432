@@ -41,7 +41,7 @@ Upon successful completion of this unit, the student will be able to:
     Age*: “Chapter 4: Civil Liberties”**
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 4: Civil
-    Liberties”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Liberties”](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
         
      Instructions: Read each section under chapter 4 as this reading
@@ -102,7 +102,7 @@ Upon successful completion of this unit, the student will be able to:
     Age*: “Chapter 5: Civil Rights”**
     Link: *American Government and Politics in the Information Age*:
     [“Chapter 5: Civil
-    Rights”](https://resources.saylor.org/archived/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
+    Rights”](https://resources.saylor.org/wwwresources/archived/site/textbooks/American%20Government%20and%20Politics%20in%20the%20Information%20Age.pdf)
     (PDF)  
         
      Instructions: Read each section under chapter 5 as this reading
